@@ -1,0 +1,5 @@
+# id; fecha; nombre; mediciones; nota; valor
+id35; 04/10/2022; Juan; 200| 195| 180| 199; 5,4; cierto 
+cod_315; 04/10/2022; Ana; 170| 175; 4,1; falso
+cod_346; 04/10/2022; Pedro; 220| 180; 6,8; cierto
+id32; 04/10/2022; Carmen; 180; 2,3; falso
