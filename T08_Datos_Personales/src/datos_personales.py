@@ -7,7 +7,7 @@ def filtra_por_edad(personas:list[Persona],edad:int)->list[Persona]:
         if persona.edad<edad:
             res.append(persona)
     return res
-
+ 
 def obtiene_dni_nombres(personas:list[Persona])->list:
     res = []
     for p in personas:
